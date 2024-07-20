@@ -1,0 +1,6 @@
+@DotNetAngularCRUD_HostAddress = http://localhost:5207
+
+GET {{DotNetAngularCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
